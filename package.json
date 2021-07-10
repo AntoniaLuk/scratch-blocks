@@ -39,7 +39,7 @@
     "glob": "7.1.7",
     "google-closure-compiler": "20180402.0.0",
     "graceful-fs": "4.2.6",
-    "imports-loader": "0.6.5",
+    "imports-loader": "3.0.0",
     "json": "9.0.4",
     "rimraf": "2.7.1",
     "selenium-webdriver": "4.0.0-beta.4",
