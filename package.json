@@ -25,7 +25,7 @@
     "translate:update": "npm run translate:sync:src && npm run translate:sync:translations"
   },
   "dependencies": {
-    "google-closure-library": "20190301.0.0",
+    "google-closure-library": "20200315.0.0",
     "scratch-l10n": "3.13.20210710031548"
   },
   "devDependencies": {
